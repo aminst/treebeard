@@ -1,0 +1,2 @@
+host1 ansible_host=20.115.80.167 ansible_user=azureuser
+host2 ansible_host=20.64.96.78 ansible_user=asetayes

@@ -1,0 +1,40 @@
+Throughput: 8167.000000
+Average Latency: 607.378474
+Throughput: 15182.000000
+Average Latency: 1320.557173
+Throughput: 3320.000000
+Average Latency: 2064.440060
+Throughput: 43809.000000
+Average Latency: 2839.602821
+Throughput: 32738.000000
+Average Latency: 3579.481398
+Throughput: 14811.000000
+Average Latency: 4899.478293
+Throughput: 38374.000000
+Average Latency: 5016.761375
+Throughput: 768.000000
+Average Latency: 5406.156250
+Throughput: 8036.000000
+Average Latency: 7668.676954
+Throughput: 56806.000000
+Average Latency: 8104.367197
+Throughput: 33172.000000
+Average Latency: 8098.466900
+Throughput: 16301.000000
+Average Latency: 7798.423042
+Throughput: 1126.000000
+Average Latency: 6641.153641
+Throughput: 24224.000000
+Average Latency: 8563.910543
+Throughput: 1319.000000
+Average Latency: 6707.314632
+Throughput: 28277.000000
+Average Latency: 8520.288432
+Throughput: 12946.000000
+Average Latency: 7305.765178
+Throughput: 47416.000000
+Average Latency: 7751.333326
+Throughput: 43238.000000
+Average Latency: 7690.348629
+Average Throughput: 22633.157895
+Experiment Average Latency: 5820.205490
