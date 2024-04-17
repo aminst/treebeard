@@ -180,8 +180,8 @@
         state: restarted
         daemon_reload: true
       delegate_to: "{{ item.deploy_host }}"
-      # loop_control:
-        # pause: 1 # let the first node become the leader first
+      loop_control:
+        pause: 1 # let the first node become the leader first
       with_items: "{{ oramnode_endpoints.endpoints }}"
 
     - name: Create shardnode systemd services
@@ -197,8 +197,8 @@
         state: restarted
         daemon_reload: true
       delegate_to: "{{ item.deploy_host }}"
-      # loop_control:
-        # pause: 1 # let the first node become the leader first
+      loop_control:
+        pause: 1 # let the first node become the leader first
       with_items: "{{ shardnode_endpoints.endpoints }}"
 
     - name: Create router systemd services
